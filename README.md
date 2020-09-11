@@ -1,8 +1,6 @@
-# zard
+# Zard
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/181/605/datas/medium.png" alt="Zard"/>
-
 Zard is a platform to facilitate, catalyze, and stimulate market flow at the local level as well as provide relief and convenience economically
-## Getting Started
 
 ## Inspiration
 We built Zard to mitigate the impact that small businesses have had due to the pandemic.
